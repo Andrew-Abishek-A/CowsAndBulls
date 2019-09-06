@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Cows and Bulls</string>
+    <string name="Play">Play</string>
+    <string name="button">Play Online</string>
+    <string name="enter_the_word">Enter the Word</string>
+    <string name="submit">Submit</string>
+    <string name="textview">TextView</string>
+    <string name="play_again">Play Again</string>
+</resources>
